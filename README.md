@@ -13,9 +13,8 @@ In addition, I love to travel abroad, my last experience was studying abroad in 
 
 [![Gmail](https://img.shields.io/badge/Email-mnguy227%40ucsc.edu-red)](mailto:mnguy227@ucsc.edu?subject=Your%20Subject%20Here&body=Dear%20[Recipient's%20Name],%0A%0A[Your%20message%20here.]%0A%0A[Your%20closing,%20such%20as%20'Best%20regards'],%0A[Your%20Name])
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/minh-khoi-nguyen-5073a315b/)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  
-[Linkedin](https://www.linkedin.com/in/minh-khoi-nguyen-5073a315b/)
 
 
 <!--
