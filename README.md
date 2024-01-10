@@ -11,9 +11,10 @@ In addition, I love to travel abroad, my last experience was studying abroad in 
 
 ## 📫 How to reach me:
 
-![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)\n
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)\n
-![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)\n
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
+[Gmail](<a href="mailto:mnguy227@ucsc.edu?subject=Your%20Subject%20Here&body=Dear%20[Recipient's%20Name],%0A%0A[Your%20message%20here.]%0A%0A[Your%20closing,%20such%20as%20'Best%20regards'],%0A[Your%20Name]">Send Email to mnguy227@ucsc.edu</a>)
+![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[Linkedin](https://www.linkedin.com/in/minh-khoi-nguyen-5073a315b/)
 
 
 <!--
