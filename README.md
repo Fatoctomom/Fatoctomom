@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## ✨About Me
 I am Minh Khoi Nguyen, an undergraduate student at the University of California Santa Cruz currently working towards a Bachelor of Science in Computer Science.
