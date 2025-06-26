@@ -1,11 +1,11 @@
 # Hi there 👋
 
 ## ✨About Me
-I am Minh Khoi Nguyen, an undergraduate student at the University of California Santa Cruz currently working towards a Bachelor of Science in Computer Science.
+I am Minh Khoi Nguyen, a recent graduate from the University of California Santa Cruz with a Bachelor of Science in Computer Science 
 
-I have experience working with **C, C++, Python, and Java**. I'm currently specialized in **machine learning**, but I'm not currently hard set on it yet. Most of my machine learning work has been done in Python using tools such as **Pytorch and Pandas**.
+I have experience working with **C, C++, JavaScript, Python, and Java**. I'm currently interested in **visual computing**, but I like to explore other specializations such as **machine learning**. Most of my machine learning work has been done in Python using tools such as **Pytorch and Pandas**.
 
-☀️Outside of work, I like to keep a balance of indoor and outdoor hobbies. The things I like to do indoors mainly consist of playing a variety of 🎮video games, watching 🎬movies/shows, building PCs, and cooking. As for outdoor activities I love to ⛷️ski, 🥾hike, and play 🏸badminton. New interests I'm looking to pickup include 🏃running or 🏊swimming, and finishing up my scuba license 
+☀️Outside of work, I like to keep a balance of indoor and outdoor hobbies. The things I like to do indoors mainly consist of playing a variety of 🎮video games, watching 🎬movies/shows, building PCs, and cooking. As for outdoor activities, I love to ⛷️ski, 🥾hike, and play 🏸badminton. New interests I'm looking to pick up include airsoft, embedded systems programming, and finishing up my scuba license. 
 
 In addition, I love to ✈️travel abroad, my last experience was studying abroad in Sendai, Miyagi Japan🇯🇵
 
